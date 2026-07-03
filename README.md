@@ -6,23 +6,29 @@ THIS IS MY GAME LOGO.
         ⬇️
 </p>
 <br>
-<img src = "https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/logoo.png" height = "100" width = "100"></img>
+<p align="center">
+<img  src = "https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/logoo.png" height = "100" width = "100" alt="image"></img>
+</p>
 <hr>
 <p>HERE SOME IMAGES.
         ⬇️
 </p>
 <br>
-<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Startpoint.png height = "300" width = "600"></img>
+<p align="center">
+<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Startpoint.png height = "300" width = "600" alt="image"></img>
+</p>
 <br>
-<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Lossingpoint.png height = "300" width = "600"></img>
+<p align="center">
+<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Lossingpoint.png height = "300" width = "600" alt="image"></img>
+</p>
 <hr>
 <h2>Feature</h2>
 <p>
 1.Only level 1.
   <br>
-2.Very basic Ui.
+2.Smooth control.
   <br>
-3.Little bit difficult 😁.
+3.Instant response when hit to obstacle😁.
 </p>
 <br>
 <h2>Technology Used</h2>
@@ -50,5 +56,4 @@ THIS IS MY GAME LOGO.
     i will provide all material i use to built this game in UNITY ENGINE.
   </p>
    <hr>
-<p> NOTE: This is my first project and i do this because for learn basic things to my self.
-</p>
+<h1>THANK YOU!! FOR READING</h1>
